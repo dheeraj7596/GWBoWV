@@ -1,5 +1,5 @@
 # Text Classification with Graded Weighted Bag of Word Vectors
-This is the implement for a paper accepted by Coling2016.
+This is the implementation of a paper accepted in Coling2016.
 
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
